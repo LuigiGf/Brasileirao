@@ -1,0 +1,19 @@
+{
+  "name": "brasileirao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiGf/brasileirao.git"
+  },
+  "author": "LuigiGF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiGf/brasileirao/issues"
+  },
+  "homepage": "https://github.com/LuigiGf/brasileirao#readme"
+}
